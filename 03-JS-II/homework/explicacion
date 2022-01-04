@@ -1,0 +1,22 @@
+FOR
+La palabra for sirve para que la computadora realice una actividad muchas veces siempre y cuando sepas en que valor va a iniciar y en que valor va a detenerse
+Por ejemplo: contar los dedos de tus manos, decirte los resultados de las tablas de multiplica, etc.
+
+&&
+
+Los símbolos && evalua  si dos  expresiones, una Y otra expresión son verdaderas, solo en caso de que ambas sean 
+verdaderas, el intérprete de javascript nos dirá que es verdadero. En caso de que alguna sea falsa nos enviará un
+resultado con la palabre 'False'.
+
+||
+
+Los símbolos || en una condición busca que alguna de las expresiones sea verdadera, en caso de que encuentre una 
+expresión verdadera nos indicará 'True', en caso de ninguna de las expresiones sea verdadera nos indicará 'False'.
+
+!
+
+El simbolo ! niega lo que está después del síbolo !, y se puede leer como si dijeras "NO es ..."
+por ejemplo: 
+!manzana, nos dice que No es manzana
+!positivo, indica que No es positivo
+!0, No es cero, etc.
